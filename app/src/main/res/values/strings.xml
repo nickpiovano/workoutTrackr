@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">workoutTrackr</string>
+    <string name="update">Update</string>
+    <string name="mile0">Mile PR</string>
+    <string name="mile1">N/A</string>
+    <string name="mile2">Enter Number</string>
+    <string name="benchPress0">Bench Press PR</string>
+    <string name="benchPress1">N/A</string>
+    <string name="benchPress2">Enter Number</string>
+</resources>
